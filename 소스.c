@@ -1,3 +1,6 @@
 #include <stdio.h>
 
-print("fjaljfla")
+int main() {
+	print("fjaljfla");
+	print("dfjlajfdlkja");
+}
